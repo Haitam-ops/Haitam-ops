@@ -6,7 +6,7 @@
 </div>
 - 👋 Hi, I’m @Haitam-ops <br>
 - 👀 I’m interested in Software Engineering <br>
-- 🌱 I’m currently learning <br>
+- 🌱 I’m currently enrolled at Full stack dev <br>
 
 <!---
 Haitam-ops/Haitam-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
