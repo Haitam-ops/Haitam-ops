@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **hbenlamsaguem@gmail.com**
 
-- ⚡ Fun fact **I love solving puzzles and coding challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
