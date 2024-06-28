@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Frontend and Backend Development**
 
-- 📫 How to reach me **haitam@example.com**
+- 📫 How to reach me **hbenlamsaguem@gmail.com**
 
 - ⚡ Fun fact **I love solving puzzles and coding challenges**
 
