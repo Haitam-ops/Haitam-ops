@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Haitam Ben Lamsaguem</h1>
-<h3 align="center">Software Engineering Student | Full Stack Developer</h3>
+<h3 align="center">Software Engineering Student | Mobile Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haitam-ops&label=Profile%20views&color=0e75b6&style=flat" alt="Haitam-ops" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 👀 I’m interested in **Software Engineering**
+- 👀 I’m interested in **AI & ML**
 
-- 💬 Ask me about **Frontend and Backend Development**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **hbenlamsaguem@gmail.com**
 
