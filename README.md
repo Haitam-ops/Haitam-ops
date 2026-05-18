@@ -108,13 +108,19 @@ contact  : hbenlamsaguem@gmail.com
 
 <div align="center">
 
-### 🐍 `> watch --my contributions`
+### 🏆 `> git --trophies`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haitam-ops/Haitam-ops/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haitam-ops/Haitam-ops/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Haitam-ops/Haitam-ops/output/github-snake-dark.svg" />
-</picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haitam-ops&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 `> git log --activity`
+
+[![Haitam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haitam-ops&bg_color=0d0d0d&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
